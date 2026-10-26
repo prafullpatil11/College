@@ -1,0 +1,18 @@
+{
+  "name": "mahaengineering-cet",
+  "version": "1.0.0",
+  "description": "Maharashtra CET Engineering Cutoff API & Data Pipeline",
+  "main": "server.js",
+  "scripts": {
+    "clean": "node --max-old-space-size=4096 cleandata.js",
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

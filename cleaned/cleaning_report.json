@@ -1,0 +1,12 @@
+{
+  "totalRecords": 280402,
+  "collegeCodeAdded": 0,
+  "collegeNameCleaned": 4875,
+  "courseNameFixed": 480,
+  "courseNameAlreadyPresent": 279922,
+  "unresolvedCollege": 0,
+  "unresolvedCourse": 0,
+  "invalidRecords": 0,
+  "finalRecords": 280402,
+  "duplicatesRemoved": 0
+}
